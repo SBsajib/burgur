@@ -1,0 +1,74 @@
+@media(max-width:1399px){
+    
+.banner-content h1{font-size: 90px; }
+.banner-content h2{font-size: 50px; }
+    .menu .menuTitle h2{font-size: 25px;}
+    .menu .menuTitle h3{ font-size: 20px;}
+}
+@media(max-width:1199px){
+    .offer {bottom: 16%;
+        left: -3%;
+        height: 140px;
+        width: 140px;}
+        .offer  h3 {font-size: 55px;}
+       
+@media(max-width:991px){
+    .banner img {
+        transform: translateY(-49px)
+        translateX(-22px) scale(1.5);
+    }
+    .banner-content h5 {font-size: 15px;
+        padding: 5px 10px 2px;}
+    .banner-content h1 {
+        font-size: 65px;
+    }
+    .banner-content h2 {
+        font-size: 42px;
+    }
+    .offer {
+        bottom: 17%;
+        left: -3%;
+        height: 115px;
+        width: 115px;
+    }
+    .offer h3 span {
+        
+        font-size: 28px;
+        
+    }
+    .offer  h3 {
+        font-size: 35px;
+    }
+    .menu .menuTitle h2 {
+        font-size: 18px;
+    }
+    .menu .menuTitle h3 {
+        font-size: 17px;
+    }
+    .heading p {
+        
+        padding: 0px 0%;
+    }
+    .product h3 {
+        font-size: 22px;
+      
+    }
+    .product p {
+    font-size: 10px;
+    font-weight: 600;
+  
+}
+.product .btn-custom {
+   
+    font-size: 13px;
+    padding: 6px 22px;
+   
+}
+@media(max-width:767px){
+
+}
+@media(max-width:575px){
+
+}
+
+
